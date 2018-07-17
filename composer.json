@@ -1,5 +1,5 @@
 {
-    "name": "developercielo/webservice-1.5-php",
+    "name": "bubbstore/cielo-webservice-1.5-php",
     "license": "MIT",
     "description": "SDK PHP para integração com webservice 1.5 da Cielo",
     "homepage": "https://github.com/DeveloperCielo/Webservice-1.5-php",
